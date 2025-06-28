@@ -1,5 +1,5 @@
 Este trabalho tem como objetivo criar uma inteligência artificial 
-com a capacidade de prever pessoas que possivelmente terão um AVC futuramente
+com a capacidade de prever pessoas que possivelmente terão um AVC futuramente.
 Foi realizado um treino criando um modelo de classificação binária, 
 e um teste para os resultados. Os arquivos contém:
 Relatório em .DOCX do trabalho
