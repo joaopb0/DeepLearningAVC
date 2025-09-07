@@ -1,4 +1,4 @@
-Previsão de Acidente Vascular Cerebral (AVC) com Redes Neuronais
+Previsão de Acidente Vascular Cerebral (AVC) com Redes Neurais
 🎯 Sobre o Projeto
 O Acidente Vascular Cerebral (AVC) é uma das principais causes de mortalidade e incapacidade em todo o mundo, tornando a sua previsão precoce um desafio crucial na área da saúde.
 
