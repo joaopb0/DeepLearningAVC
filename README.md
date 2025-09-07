@@ -53,7 +53,7 @@ No entanto, em problemas de diagnóstico médico, a acurácia geral pode ser uma
 
 #### 🏁 Como Executar o Projeto
 
-Este projeto foi desenvolvido utilizando Google Colab e pode ser acedido e executado diretamente no seu navegador.
+Este projeto foi desenvolvido utilizando Google Colab e pode ser acessado e executado diretamente no seu navegador.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QYnMndyvxHCaQ7yRKReCeWtcuRJax-3V)
 
